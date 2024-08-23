@@ -2,6 +2,11 @@
 
 Este projeto é uma aplicação web para gerenciamento de tarefas que permite aos usuários criar, visualizar e gerenciar suas tarefas. O sistema suporta tarefas públicas e privadas e inclui autenticação via Google para um acesso seguro e personalizado.
 
+![image](https://github.com/user-attachments/assets/eaae42db-5879-43e0-8238-5ad20b0a0769)
+
+![image](https://github.com/user-attachments/assets/a15f5ce3-0772-4c7e-a087-4204a51f4698)
+
+
 ## Funcionalidades
 
 - **Cadastro de Tarefas:** Permite adicionar novas tarefas com detalhes como título, descrição e prazo.
